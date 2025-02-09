@@ -1,7 +1,7 @@
 #TempConvert.py
 #Name:Fatima Davila
 #Date:2/6/14
-#Assignment:
+#Assignment: lab 3
 
 
 def main():
@@ -12,7 +12,7 @@ def main():
   #Convert that temperature to celsius, rounding to 1 decimal percision
   celsius = (farenheit- 32) / 1.8
   print(f"tempC :", "{celsius:.2f}")
-  #Output converted temperature.
+  #Output converted temperature. 
   tempF = 80
   
   tempC = tempF / 2
